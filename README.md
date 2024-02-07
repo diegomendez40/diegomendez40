@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm diegomendez40</h1>
 <h3 align="center">You can call me Diego. I am an engineer with a PhD in AI/ML (anomaly detection).</h3>
 
-- 🔭 I’m currently working on several projects related to my FlamencoWitches universe, including [an MLOPs project to showcase some techniques for factory QA](https://github.com/diegomendez40/FlamencoWitches_FactoryMLOps)
+- 🔭 I’m currently working on several projects related to my FlamencoWitches universe, including [an MLOps project to showcase some techniques for factory QA](https://github.com/diegomendez40/FlamencoWitches_FactoryMLOps)
 
 - 🌱 I’m currently learning **Sionna, MLOps, JDSP**
 
 - 💬 Ask me about **python**, **Java/Spring Boot**, or **why your NN predictions are no longer working** (hint: an abrupt change has occurred)
 
-- ⚡ Fun fact **Depending on the music and the programming language, I am a better dancer than coder.**
+- ⚡ Fun fact: (Depending on the music and the programming language,) **I am a better dancer than coder.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
