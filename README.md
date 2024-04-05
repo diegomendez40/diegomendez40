@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on several projects related to my FlamencoWitches universe, including [an MLOps project to showcase some techniques for factory QA](https://github.com/diegomendez40/FlamencoWitches_FactoryMLOps)
 
-- 🌱 I’m currently learning **Kubernetes, Istio, MLOps**
+- 🌱 I’m currently learning **Azure AI, MLOps, LLMOps, LangOps**
 
 - 💬 Ask me about **python**, **Java/Spring Boot**, or **why your NN predictions are no longer working** (hint: an abrupt change has occurred)
 
