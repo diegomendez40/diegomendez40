@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C++**, **python**, **Java/Spring Boot**, or **why your NN predictions are no longer working** (hint: an abrupt change has occurred)
 
-- ⚡ Fun fact: I coded a calculator application on BASIC when I was 9 years old. I guess **developing software was my fate.**
+- ⚡ Fun fact: I taught myself BASIC when I was 9 years old (with the command listbook called "BASIC Reference Manual", no internet back then). I guess **developing software was my fate.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
