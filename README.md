@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm diegomendez40</h1>
 <h3 align="center">You can call me Diego. I am an engineer with a PhD in AI/ML (anomaly detection).</h3>
 
-- 🔭 I’m currently working on several projects related to AI, including LLM schemes.
+- 🔭 I’m currently working on several projects related to AI, including LLMs (Language Agents) and GraphRAG schemes.
 
-- 🌱 I’m currently learning about **advanced LLM techniques**.
+- 🌱 I’m currently learning about **advanced LLM engineering and graph-based RAG techniques**.
 
-- 💬 Ask me about **python**, **ML**, or **why your NN predictions are no longer working** (hint: an abrupt change has occurred)
+- 💬 Ask me about **python**, **cognitive architectures**, or **why your NN predictions are no longer working** (hint: an abrupt change has occurred)
 
 - ⚡ Fun fact: I taught myself BASIC when I was 9 years old (with the command listbook called "BASIC Reference Manual", no internet back then). I guess **developing software was my fate.**
 
